@@ -1,0 +1,29 @@
+# Python cache
+*.py[cod]
+__pycache__
+./__pycache__
+
+# Local settings for the project
+localsettings.py
+
+# Databases
+*.sqlite3
+
+# Virtual environments
+/env
+/venv
+
+# Static and media
+staticfiles
+mediafiles
+media
+
+# Temporary
+tmp
+temp
+
+# VS CODE directory
+.vscode
+
+# TODOs
+TODO.*
